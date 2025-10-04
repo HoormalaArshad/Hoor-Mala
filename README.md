@@ -17,7 +17,7 @@ React • Bootstrap • AWS (S3, EC2, Lambda) • SageMaker • GitHub • VS Co
 📈 Maternal health tracker that monitors vitals and sends alerts to healthcare providers.
 
 🎓 DGCA Certified Drone Pilot  
-📡 Hands-on experience in aerial data collection and drone operations.
+📡 Hands-on experience in drone operations.
 
 🌐 Connect with Me  
 📎 [LinkedIn](https://www.linkedin.com/in/hoormala-arshad)  
